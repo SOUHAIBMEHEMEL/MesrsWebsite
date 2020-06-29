@@ -1,0 +1,72 @@
+.BibliographyTitle{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    color: #3B739C;
+}
+
+.BibliographyContent{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    color: #000;
+}
+
+.h3{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000;
+}
+
+.li{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    color: #000;
+}
+
+#BlogContainer{
+    margin: 40px 0 40px 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.BlogTitle{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 29px;
+    text-align: center;
+    padding-top: 20px;
+    color: #000;
+}
+
+#btn{
+    border: 0px;
+    background: #7DE7FE;
+    border-radius: 6px;
+    width: 300px;
+    height: 62px;
+    float: right;
+    font-size: 26px;
+    color: #fff;
+}
